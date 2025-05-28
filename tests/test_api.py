@@ -1,5 +1,3 @@
-import requests
-
 BASE_URL = "https://reqres.in/api"
 
 def test_get_users():
